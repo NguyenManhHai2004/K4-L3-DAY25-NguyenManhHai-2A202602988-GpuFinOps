@@ -1,0 +1,10 @@
+metric,reasoning,normal,note
+requests,201,2199,traffic share 8.4%
+tokens,1241156,6291871,
+cost_usd_day,1.4,7.09,cost share 16.5%
+energy_wh_day,29788,1888,energy share 94.0%
+
+cap_reasoning_traffic,saved_usd_day,saved_usd_month,saved_wh_day,saved_wh_pct
+5%,0.02,0,7612,24.0
+2%,0.06,2,19340,61.1
+0%,0.11,3,29415,92.9

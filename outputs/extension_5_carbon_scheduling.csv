@@ -1,0 +1,6 @@
+region,usd_per_kwh,gco2_per_kwh,energy_cost_usd,carbon_kg,pick
+us-east-1,0.12,380,214.68,679.8,
+us-west-2,0.07,120,125.23,214.7,
+europe-north1,0.09,30,161.01,53.7,cleanest
+europe-central2,0.18,660,322.02,1180.7,
+us-east-wa,0.055,90,98.39,161.0,cheapest+balanced
